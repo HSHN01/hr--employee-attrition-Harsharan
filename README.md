@@ -1,2 +1,9 @@
-# hr--employee-attrition-Harsharan
-Python Machine Learning project. In this project we help HR identify employees who are likely to leave the company.
+# HR Attrition Solution Machine Learning Solution HR Solution for Attrition to help HR to detect the possible employees who will leave the organisation.
+
+
+
+![HR Attrition Image](https://github.com/HSHN01/hr--employee-attrition-Harsharan/blob/main/Attrtion.png?raw=true)
+
+The data was sourced from the HR MIS where the details of all past and current employees were being recorded for the last 15 years.In this project the 
+
+PLS CLICK [HERE](https://www.dropbox.com/sh/buuwng1en10m7zt/AADPJlYBwIDaFz-2LsazlZnHa?dl=0&preview=HR_Analytics.ipynb)
