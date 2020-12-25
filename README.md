@@ -12,4 +12,4 @@ The data was sourced from the HR MIS where the details of all past and current e
 
 
 
-PLS CLICK [HERE](https://www.dropbox.com/sh/buuwng1en10m7zt/AADPJlYBwIDaFz-2LsazlZnHa?dl=0&preview=HR_Analytics.ipynb)
+To Checkout my Notebook PLS CLICK [HERE](https://www.dropbox.com/sh/buuwng1en10m7zt/AADPJlYBwIDaFz-2LsazlZnHa?dl=0&preview=HR_Analytics.ipynb)
