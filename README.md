@@ -12,3 +12,4 @@ The data was sourced from the HR MIS where the details of all past and current e
 To check out my notebook, please click [here](https://github.com/HarsharanSinghKohli/hr--employee-attrition-Harsharan/blob/main/HR_Analytics.ipynb)
 
 
+![enter image description here](https://media.istockphoto.com/vectors/flag-thank-you-old-school-flag-banner-with-text-vector-id1183769974)
